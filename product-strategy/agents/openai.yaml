@@ -1,0 +1,6 @@
+interface:
+  display_name: "Product Strategy"
+  short_description: "Analyze product strategy choices"
+  default_prompt: "Use $product-strategy to analyze this product opportunity and recommend a clear path."
+policy:
+  allow_implicit_invocation: true

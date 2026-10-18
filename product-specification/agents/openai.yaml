@@ -1,0 +1,6 @@
+interface:
+  display_name: "Product Specification"
+  short_description: "Write PRDs and acceptance criteria"
+  default_prompt: "Use $product-specification to turn this product idea into a buildable spec."
+policy:
+  allow_implicit_invocation: true

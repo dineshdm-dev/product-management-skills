@@ -1,0 +1,6 @@
+interface:
+  display_name: "Product Architecture"
+  short_description: "Model product objects and boundaries"
+  default_prompt: "Use $product-architecture to model this product capability before we design the implementation."
+policy:
+  allow_implicit_invocation: true

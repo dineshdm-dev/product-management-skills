@@ -1,0 +1,6 @@
+interface:
+  display_name: "Product Experience"
+  short_description: "Design product workflows"
+  default_prompt: "Use $product-experience to improve this workflow and make the user decision clearer."
+policy:
+  allow_implicit_invocation: true
