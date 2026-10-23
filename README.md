@@ -1,6 +1,6 @@
 # Product Management Skills
 
-Eight standalone Agent Skills for thinking through product problems, making decisions, and preparing work a team can act on.
+Agent Skills for thinking through product problems, making decisions, and preparing work a team can act on.
 
 Product work often starts with something incomplete: a feature request that assumes the solution, research notes that point in different directions, or a proposal that leaves ownership unclear. These skills give an AI agent a structured way to examine that material, expose the decisions underneath it, and produce a useful next step.
 
